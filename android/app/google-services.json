@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1000987664058",
+    "project_id": "expensetrackerapp-62e36",
+    "storage_bucket": "expensetrackerapp-62e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000987664058:android:3c3eaea1d27ba77f686c83",
+        "android_client_info": {
+          "package_name": "com.expenseTra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000987664058-5dg2emu4iafekhp54hqlt53rrurbk2o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expenseTra.app",
+            "certificate_hash": "f247ed2474054849315ca22ce270219f27f74d61"
+          }
+        },
+        {
+          "client_id": "1000987664058-rmsgp0ch0ma67r79ltin7u927a4ncaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFdSZJpxOCDJj7kvFrGH50nNGK9IBnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000987664058-rmsgp0ch0ma67r79ltin7u927a4ncaeq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000987664058-n81tkjqebmp9ukdn4hhkjv8t54l0gas9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenseTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000987664058:android:2474420029a46f1c686c83",
+        "android_client_info": {
+          "package_name": "com.expense_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000987664058-rmsgp0ch0ma67r79ltin7u927a4ncaeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFdSZJpxOCDJj7kvFrGH50nNGK9IBnQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000987664058-rmsgp0ch0ma67r79ltin7u927a4ncaeq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000987664058-n81tkjqebmp9ukdn4hhkjv8t54l0gas9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenseTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
